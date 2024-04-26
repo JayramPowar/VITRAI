@@ -1,0 +1,26 @@
+ID,Vehicle Type,Color,Speed,Direction,Entrance
+4,car,Gray,71,NorthWest,in
+1,car,Dim Gray,71,SouthWest,out
+21,car,Purple Taupe,58,NorthWest,in
+3,car,Dim Gray,67,SouthWest,out
+30,car,Old Lavender,78,NorthWest,in
+16,car,Dim Gray,62,SouthWest,out
+23,car,Quartz,63,SouthWest,out
+52,bus,Outer Space,81,NorthWest,in
+60,car,Jet,66,NorthWest,in
+21,car,Black Olive,76,SouthWest,out
+62,car,Old Lavender,52,NorthWest,in
+41,car,Gray,47,SouthWest,out
+73,truck,Davy'S Grey,75,NorthWest,in
+65,car,Camouflage Green,67,SouthWest,out
+83,car,Black Olive,57,NorthWest,in
+39,car,Dim Gray,66,SouthWest,out
+74,car,Wenge,62,SouthWest,out
+96,car,Black Olive,47,NorthWest,in
+84,car,Dim Gray,63,SouthWest,out
+97,car,Dim Gray,69,SouthWest,out
+95,car,Gray,62,NorthWest,in
+62,car,Black Olive,54,SouthWest,out
+43,car,Wenge,62,SouthWest,out
+81,car,Dark Lava,75,SouthWest,out
+125,car,Jet,66,NorthWest,in
